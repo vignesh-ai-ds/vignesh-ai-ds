@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Vignesh! 👋
 
-<!--
-**vignesh-ai-ds/vignesh-ai-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BSc AI & Data Science graduate currently working at TCS as a Graduate Trainee.  
+I enjoy building real-world tech solutions using AI, Machine Learning, and Data Analytics.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Skills & Tools
+- **Languages**: Python, SQL  
+- **Libraries**: Pandas, NumPy, scikit-learn, Matplotlib  
+- **Tools**: Power BI, Excel, Git, GitHub  
+- **Areas of Interest**: Data Science, AI/ML, Embedded Systems, Public Safety Tech
+
+---
+
+### 🧠 Projects
+- **Narcotic Detection System in Buses** – Real-time alert system using VOC sensors and GPS modules  
+- **Smart Bus Boarding System** – Controls door access based on crowd density  
+- **IPL Data Analysis** – Explored team and player stats using Python  
+- **Customer Churn Prediction** – ML model to predict and visualize customer drop-offs
+
+---
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/vignesh-a-a65b43224)
